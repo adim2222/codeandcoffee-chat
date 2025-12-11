@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\StevToPL\\Documents\\codeandcoffee-chat\\BackEnd\\codeandcoffee-chat-b\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C196EEC2-A915-4202-A2A4-9272823D4B4E}|codeandcoffee-chat-b\\codeandcoffee-chat-b.csproj|c:\\users\\stevtopl\\documents\\codeandcoffee-chat\\backend\\codeandcoffee-chat-b\\codeandcoffee-chat-b\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C196EEC2-A915-4202-A2A4-9272823D4B4E}|codeandcoffee-chat-b\\codeandcoffee-chat-b.csproj|solutionrelative:codeandcoffee-chat-b\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\StevToPL\\Documents\\codeandcoffee-chat\\BackEnd\\codeandcoffee-chat-b\\codeandcoffee-chat-b\\Program.cs",
+              "RelativeDocumentMoniker": "codeandcoffee-chat-b\\Program.cs",
+              "ToolTip": "C:\\Users\\StevToPL\\Documents\\codeandcoffee-chat\\BackEnd\\codeandcoffee-chat-b\\codeandcoffee-chat-b\\Program.cs",
+              "RelativeToolTip": "codeandcoffee-chat-b\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T20:42:50.812Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
